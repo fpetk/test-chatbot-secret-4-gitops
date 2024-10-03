@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/tpetkos/test-chatbot-secret-4:bb6f642d8e2f3f927e14104ca4cf89ec467a6a74@sha256:5868a78f3b4d426d639a649e12e738317f615e37134220e725dc6cf1067f216b # use pre-built to bootstrap 
+        - image: quay.io/tpetkos/test-chatbot-secret-4:ecba2eae66f9497edc85b2e9d331f85e15e341f8@sha256:8fa6e91388e25378517575735c30cc6b209d0c2eb3f3302197dd62a7ab053f2b # use pre-built to bootstrap 
           name: app-inference
